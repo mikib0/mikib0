@@ -8,9 +8,9 @@ I am a frontend and mobile app developer with a passion for Javascript and React
  />
 </p>
 
-<p align="center;">
-<img src="/Resources/quote.jpeg" style="width:100%; max-height: 300px" alt="what i cannot creat i don`t understand" />
-</p>
+<!-- My fav quote -->
+> 🙶 What I cannot create, I do not understand 🙷
+> - Richard Feynman
 
 <!-- ### 🌱 Currently working on...
 
