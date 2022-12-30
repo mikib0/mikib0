@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ibrahim
 
-I am a frontend and mobile app developer with a passion for Javascript and ReactJS. I love digging down the rabbit hole to understand how things work under the hood and am always looking for ways to improve my skills and knowledge. Whether I'm working on a new project or contributing to an open source project, I am always eager to learn and explore new technologies and techniques. In my free time, you can find me tinkering with new libraries and frameworks, or trying out the latest and greatest in web development. I share what I learn on:
+I am a frontend and mobile app developer with a passion for Javascript and ReactJS. I love digging down the rabbit hole to understand how things work under the hood and am always looking for ways to improve my skills and knowledge. In my free time, you can find me tinkering with new libraries and frameworks, or trying out the latest and greatest in web development. I share what I learn on:
 
 <p style="text-align: center">
    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg" 
