@@ -2,14 +2,14 @@
 
 I am a frontend and mobile app developer with a passion for Javascript and ReactJS. I love digging down the rabbit hole to understand how things work under the hood and am always looking for ways to improve my skills and knowledge. In my free time, you can find me tinkering with new libraries and frameworks, or trying out the latest and greatest in web development. I share what I learn on:
 
-<p style="display: flex; justify-content: center">
+<p align="center">
    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg" 
    alt="devto logo"
  />
 </p>
 
-<p style="text-align: center;">
-<img src="/Resources/quote.jpeg" style="width:100%; max-height: 400px" alt="what i cannot creat i don`t understand" />
+<p align="center;">
+<img src="/Resources/quote.jpeg" style="width:100%; max-height: 300px" alt="what i cannot creat i don`t understand" />
 </p>
 
 <!-- ### 🌱 Currently working on...
